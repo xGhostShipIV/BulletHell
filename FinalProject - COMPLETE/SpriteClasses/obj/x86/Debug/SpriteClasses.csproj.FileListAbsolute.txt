@@ -1,0 +1,14 @@
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\Users\Nathan\Desktop\FinalProject - COMPLETE\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\Users\Christopher\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\Christopher\Desktop\FinalProject - COMPLETE\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\Christopher\Desktop\FinalProject - COMPLETE\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\FinalProject - COMPLETE\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\Users\Christopher\Desktop\FinalProject - COMPLETE\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
